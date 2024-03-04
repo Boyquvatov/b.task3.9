@@ -1,7 +1,11 @@
 footer{
+    width: 100%;
     display: flex;
     gap: 70px;
-    margin: 70px 0px;
+    justify-content: center;
+    margin-top: 60px;
+    background-color: #46484b;
+    padding: 30px 0px;
     .footer-item{
         display: flex;
         flex-direction: column;
